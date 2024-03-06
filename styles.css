@@ -1,0 +1,78 @@
+body{
+    background-color: black;
+}
+
+i{
+    font-size: 50px;
+}
+
+h1{
+    font-size: 20px;
+    padding-top: 5px;
+    margin-bottom: 0;
+}
+
+.parte_dchb{
+    text-align: right;
+}
+
+.contenido{
+    width: 50%;
+    background-color: white;
+    margin-right: 30%;
+    margin-left: 30%;
+}
+.parte_izq{
+    float: left;
+    display: flex;
+}
+.parte_izq h1{
+    margin: 0px;
+    float: top;
+}
+.parte_izq i {
+    float: left;
+    margin-top: 8px;
+    margin-left: 8px;
+    margin-right: 8px;
+    
+}
+.parte_izq p { 
+    position: relative;
+    margin-top: 30px;
+    margin-left: -70px;
+}
+
+.parte_dch i {
+    float: right;
+    margin: 8px;
+}
+
+img{
+    width: 100%
+}
+
+.parte_izqb{
+    float: left;
+    display: flex;
+}
+
+.parte_izqb i {
+    margin: 8px;
+    font-size: 30px;
+}
+
+.parte_dchb i {
+    margin: 8px;
+    font-size: 30px;
+    margin-right: 15px;
+}
+
+.penul{
+   margin-left: 10px;
+}
+
+.pie_foto{
+    margin-left: 10px;
+    padding-bottom: 15px;
+}
